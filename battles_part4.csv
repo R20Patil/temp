@@ -1,0 +1,10 @@
+r_king,attacker_1,attacker_2,attacker_3,attacker_4,defender_1,defender_2,defender_3,defender_4,attacker_outcome,battle_type,major_death,major_capture,attacker_size,defender_size,attacker_commander,defender_commander,summer,location,region,note
+ng,0,0,,,Rorge,,0,Saltpans,The Riverlands,
+Retaking of Deepwood Motte,300,31,Stannis Baratheon,Balon Greyjoy/Euron Greyjoy,Baratheon,Karstark,Mormont,Glover,Greyjoy,,,,win,pitched battle,0,0,4500,200,"Stannis Baratheon, Alysane Mormont",Asha Greyjoy,0,Deepwood Motte,The North,
+Battle of the Shield Islands,300,32,Balon Greyjoy/Euron Greyjoy,Joffrey Baratheon/Tommen Baratheon,Greyjoy,,,,Tyrell,,,,win,pitched battle,0,0,,,"Euron Greyjoy, Victarion Greyjoy",,0,Shield Islands,The Reach,
+"Invasion of Ryamsport, Vinetown, and Starfish Harbor",300,33,Balon Greyjoy/Euron Greyjoy,Joffrey Baratheon/Tommen Baratheon,Greyjoy,,,,Tyrell,,,,win,razing,0,0,,,"Euron Greyjoy, Victarion Greyjoy",,0,"Ryamsport, Vinetown, Starfish Harbor",The Reach,
+Second Seige of Storm's End,300,34,Joffrey Baratheon/Tommen Baratheon,Stannis Baratheon,Baratheon,,,,Baratheon,,,,win,siege,0,0,,200,"Mace Tyrell, Mathis Rowan",Gilbert Farring,0,Storm's End,The Stormlands,
+Siege of Dragonstone,300,35,Joffrey Baratheon/Tommen Baratheon,Stannis Baratheon,Baratheon,,,,Baratheon,,,,win,siege,0,0,2000,,"Loras Tyrell, Paxter Redwyne",Rolland Storm,0,Dragonstone,The Stormlands,
+Siege of Riverrun,300,36,Joffrey Baratheon/Tommen Baratheon,Robb Stark,Lannister,Frey,,,Tully,,,,win,siege,0,0,3000,,"Daven Lannister, Ryman Frey, Jaime Lannister",Brynden Tully,0,Riverrun,The Riverlands,
+Siege of Raventree,300,37,Joffrey Baratheon/Tommen Baratheon,Robb Stark,Bracken,Lannister,,,Blackwood,,,,win,siege,0,1,1500,,"Jonos Bracken, Jaime Lannister",Tytos Blackwood,0,Raventree,The Riverlands,
+Siege of Winterfell,300,38,Stannis Baratheon,Joffrey Baratheon/Tommen Baratheon,Baratheon,Karstark,Mormont,Glover,Bolton,Frey,,,,,,,5000,8000,Stannis Baratheon,Roose Bolton,0,Winterfell,The North,
